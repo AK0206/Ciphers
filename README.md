@@ -6,6 +6,7 @@ It has four features in total and they are :
 * Caesar Cipher
 * Vigenere Cipher
 * Symbolic Fun.
+
 All these features are developed using simple/basic knowledge on cryptography( the art of encrypting and decrypting data ). 
 Almost all the ciphers used in this project are substitution ciphers in which symbolic fun is the one which our team came up with. It basically substitutes alphabets to random symbols on the keyboard.
 
