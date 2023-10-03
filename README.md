@@ -27,4 +27,4 @@ Almost all the ciphers used in this project are substitution ciphers in which sy
                The symbolic fun algo swaps random symbols assigned to the respective alphabet and encrypts the text.
 
 
-***XXX***
+... .- -.-- --- -. .- .-. .-
